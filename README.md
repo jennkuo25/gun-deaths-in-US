@@ -6,5 +6,5 @@ This analysis was performed to look at trends in gun deaths across US and determ
 
 **Data**
 
-The dataset is the cleaned gun death data from  CDC from 2012-2014, originally published by FiveThirtyEight in their analysis of [Gun Deaths in America] (https://fivethirtyeight.com/features/gun-deaths/)
+The dataset is the cleaned gun death data from  CDC from 2012-2014, originally published by FiveThirtyEight in their analysis of [Gun Deaths in America](https://fivethirtyeight.com/features/gun-deaths/)
 
