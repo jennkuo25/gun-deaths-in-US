@@ -1,4 +1,4 @@
-#Gun Deaths in the U.S.
+# Gun Deaths in the U.S.
 
 **Motivation**
 This analysis was performed to look at trends in gun deaths across US and determine the rate of gun deaths per racial demographic in the U.S. 
